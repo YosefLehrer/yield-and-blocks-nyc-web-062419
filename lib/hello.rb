@@ -9,6 +9,7 @@ def hello_t(array)
   array
   else
     puts "h"
+  end
 end
 
 # call your method here!
